@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Hi come
+=======
+welcome to 2nd file
+>>>>>>> e86d5eb829e9581a6ea585f9f08b41987f83bc2d
